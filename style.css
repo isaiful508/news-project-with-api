@@ -41,14 +41,16 @@ color: white;
 
 }
 .singleNews{
+    /* width: 80%;
+    margin: auto; */
     width: 75%;
-    /* padding: 20px; */
-    /* border: 1px solid gray; */
+    padding: 20px; */
+    border: 1px solid gray;
     display: flex;
-    align-items: center;
+    align-items: center; 
     /* justify-content: space-around; */
-box-shadow: 4px 4px 8px gray;
-border-radius:5px;
+    box-shadow: 4px 4px 8px gray;
+    border-radius:5px;
 
     
 }
